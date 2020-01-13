@@ -1,5 +1,6 @@
 # IMS253-Teensy-LC
-These are some of my school projects from an Alternative Controller class at Miami University
+These are some of my school projects from an Alternative Controller (alt ctrl) class at Miami University
+
 Not complete as of last commit -- I'm trying to wrangle up old code from google drive and other locations
 
 ==========================================================================
