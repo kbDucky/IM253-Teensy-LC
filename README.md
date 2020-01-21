@@ -3,7 +3,7 @@ These are some of my school projects from an Alternative Controller (alt ctrl) c
 
 Not complete as of last commit -- I'm trying to wrangle up old code from google drive and other locations
 
-*Note for file with executable games: \*.exe should launch the game when clicked on in a Windows environment if not, hard lua code exists in the directory with the same name as the executable*
+*Note for file with executable games: \*.exe should launch the game when clicked on in a Windows environment. If not, hard lua code exists in the directory with the same name as the executable*
 
 ==========================================================================
 
@@ -11,7 +11,7 @@ Knot Kraze - A group project where students were instructed to use something sof
 
 ==========================================================================
 
-Pat Pat Revolution - A group project where students were instructed to make a wearable controller for their own-created game, i.e. my first original game. We used a full-body suit with touch sensors on it to make a rhythm game to the tune of 'Head, Shoulders, Knees, and Toes', which speeds up after every successful runthrough of the game. Game code is *incredibly* messy and doesn't quite work correctly when getting to the further levels of speed, but this was the place I started, and I'm very proud of our playtest demo for class.
+Pat Pat Revolution - A group project where students were instructed to make a wearable controller for their own-created game, i.e. my first original game. We used a full-body suit with touch sensors on it to make a rhythm game to the tune of 'Head, Shoulders, Knees, and Toes', which speeds up after every successful runthrough of the game. Game code is *incredibly* messy and doesn't quite work correctly when getting to the further levels of speed, but this was the place I started, and I'm very proud of our playtest demo for class. Controlled with 'h', 's', 'k', 't' keys.
 
 ==========================================================================
 
