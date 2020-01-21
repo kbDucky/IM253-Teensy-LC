@@ -3,9 +3,19 @@ These are some of my school projects from an Alternative Controller (alt ctrl) c
 
 Not complete as of last commit -- I'm trying to wrangle up old code from google drive and other locations
 
+*Note for file with executable games: \*.exe should launch the game when clicked on in a Windows environment if not, hard lua code exists in the directory with the same name as the executable*
+
 ==========================================================================
 
-Color Conflict - A project where students were instructed to take a non-game and make an alt ctrl game out of it. We used Autodesk Sketchbook on one of our teammember's laptops (for the dimensions and screen locations) and made a colour-matching game where two people took turns choosing colours with a cardboard paint palette containing touch sensors and actual paint colours to signify the part of the colour wheel to be selected with that touch sensor.
+Knot Kraze - A group project where students were instructed to use something soft in their own-created game. We used a styrofoam head with touch sensors on it, along with a lot of fluffy yarn, and made a hair combing game. Knots appear and must be combed away by combing on a specific portion of the styrofoam head relating to the location of the knot in the game. Controlled with number keys 1 through 6.
+
+==========================================================================
+
+Pat Pat Revolution - A group project where students were instructed to make a wearable controller for their own-created game, i.e. my first original game. We used a full-body suit with touch sensors on it to make a rhythm game to the tune of 'Head, Shoulders, Knees, and Toes', which speeds up after every successful runthrough of the game. Game code is *incredibly* messy and doesn't quite work correctly when getting to the further levels of speed, but this was the place I started, and I'm very proud of our playtest demo for class.
+
+==========================================================================
+
+Color Conflict - A group project where students were instructed to take a non-game and make an alt ctrl game out of it. We used Autodesk Sketchbook on one of our teammember's laptops (for the dimensions and screen locations) and made a colour-matching game where two people took turns choosing colours with a cardboard paint palette containing touch sensors and actual paint colours to signify the part of the colour wheel to be selected with that touch sensor.
 
 ==========================================================================
 
